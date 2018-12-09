@@ -1,2 +1,3 @@
-# Python
-Python Code
+Purpose:
+Help to learn & understand python concepts and data structure.
+
